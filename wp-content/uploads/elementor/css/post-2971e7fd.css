@@ -1,0 +1,46 @@
+.elementor-2971 .elementor-element.elementor-element-1157410{margin-top:20px;margin-bottom:0px;}.elementor-2971 .elementor-element.elementor-element-088f7b3{--image-border-width:0px;--image-border-radius:15px;--image-transition-duration:800ms;--content-text-align:center;--content-padding:30px;--content-transition-duration:800ms;--content-transition-delay:800ms;}.elementor-2971 .elementor-element.elementor-element-5476aeb img{border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-38c5b7a );border-radius:15px 15px 15px 15px;}.elementor-2971 .elementor-element.elementor-element-efbde59 img{border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-38c5b7a );border-radius:15px 15px 15px 15px;}.elementor-2971 .elementor-element.elementor-element-1d4e5c6 img{border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-38c5b7a );border-radius:15px 15px 15px 15px;}.elementor-2971 .elementor-element.elementor-element-511e131 img{border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-38c5b7a );border-radius:15px 15px 15px 15px;}.elementor-2971 .elementor-element.elementor-element-8f340f8 img{border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-38c5b7a );border-radius:15px 15px 15px 15px;}.elementor-2971 .elementor-element.elementor-element-79ffd3d img{border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-38c5b7a );border-radius:15px 15px 15px 15px;}:root{--page-title-display:none;}/* Start custom CSS for gallery, class: .elementor-element-088f7b3 */.e--pointer-background .elementor-item:before {
+    border-radius:100px;
+}
+
+.elementor-gallery__titles-container{
+   display: flex;
+   flex-wrap: nowrap;
+   overflow-x: auto;
+   -webkit-overflow-scrolling: touch;
+   -ms-overflow-style: -ms-autohiding-scrollbar;
+   margin-right: 0px;
+}
+
+.elementor-gallery__titles-container::-webkit-scrollbar {
+		height: 0;
+}
+
+.elementor-gallery__titles {
+   flex: 0 0 auto;
+}
+
+
+.elementor-620 .elementor-element.elementor-element-0b6caa1 .elementor-gallery-title{
+    padding-top: 8px;
+    padding-right: 16px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    margin-right: 5px;
+}
+
+.elementor-gallery__titles-container{
+   border-bottom: 1px solid #CECECE;
+    padding-bottom: 18px;
+    border-top: 1px solid #CECECE;
+    padding-top: 18px;
+  
+}
+
+a.elementor-item.elementor-gallery-title.elementor-item-active {
+    background-color: #ffffff;
+    border-radius: 100px;
+}
+a.elementor-item.elementor-gallery-title.elementor-item-active, a.elementor-item.elementor-gallery-title.highlighted, a.elementor-item.elementor-gallery-title:focus, a.elementor-item.elementor-gallery-title:hover{
+    background-color: #ffffff;
+    border-radius: 100px;
+}/* End custom CSS */

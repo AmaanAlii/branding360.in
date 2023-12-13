@@ -1,0 +1,6 @@
+.elementor-3055 .elementor-element.elementor-element-468c8b0e{margin-top:0px;margin-bottom:0px;padding:0px 0px 0px 0px;}.elementor-3055 .elementor-element.elementor-element-14aca5a > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px;}#elementor-popup-modal-3055 .dialog-message{width:650px;height:800px;align-items:flex-start;padding:0px 0px 0px 0px;}#elementor-popup-modal-3055{justify-content:center;align-items:center;pointer-events:all;background-color:rgba(0,0,0,.8);}#elementor-popup-modal-3055 .dialog-close-button{display:flex;top:2%;background-color:var( --e-global-color-c805182 );font-size:15px;}#elementor-popup-modal-3055 .dialog-widget-content{border-radius:15px 15px 15px 15px;box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);margin:0px 0px 0px 0px;}body:not(.rtl) #elementor-popup-modal-3055 .dialog-close-button{right:5%;}body.rtl #elementor-popup-modal-3055 .dialog-close-button{left:5%;}#elementor-popup-modal-3055 .dialog-close-button i{color:var( --e-global-color-primary );}#elementor-popup-modal-3055 .dialog-close-button svg{fill:var( --e-global-color-primary );}/* Start custom CSS */i.eicon-close {
+    padding: 5px;
+}
+.dialog-close-button.dialog-lightbox-close-button {
+    border-radius: 100px;
+}/* End custom CSS */
